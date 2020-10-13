@@ -15,7 +15,7 @@
         <selenium.webdriver.version>4.0.0-alpha-5</selenium.webdriver.version>
         <io.cucumber.version>5.5.0</io.cucumber.version>
         <log4j.version>2.13.1</log4j.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
